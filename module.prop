@@ -1,0 +1,8 @@
+id=ghx_game_boost
+name=全机型游戏高刷加速
+version=1.1
+versionCode=3
+author=ghx
+description=进游戏自动拉满刷新率与触控响应，退出一键复原；60/90/120Hz 自适应，附带 CPU/GPU/温控参数放宽与设备信息面板。
+banner=banner.jpg
+axeronPlugin=10400
